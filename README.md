@@ -1,2 +1,4 @@
-# demo
-练手的demo
+### 1.httpd
+用 PHP 实现 HTTP 服务器源码
+### 1.qrcode
+用 PHP 生成 带文字的二维码

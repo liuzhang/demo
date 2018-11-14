@@ -4,3 +4,5 @@
 用 PHP 生成 带文字的二维码
 ### 3.process-model
 多进程 master-worker 模型
+### 4.container
+DI 容器练习

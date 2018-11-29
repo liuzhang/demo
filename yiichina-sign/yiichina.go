@@ -28,8 +28,8 @@ func main() {
 	var postData = url.Values{}
 
 	postData.Add("_csrf", csrf)
-	postData.Add("LoginForm[username]", "liuzhang")
-	postData.Add("LoginForm[password]", "lz19850610")
+	postData.Add("LoginForm[username]", "*******")
+	postData.Add("LoginForm[password]", "*******")
 	postData.Add("LoginForm[rememberMe]", "0")
 	postData.Add("LoginForm[rememberMe]", "1")
 	postData.Add("login-button", "")

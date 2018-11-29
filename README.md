@@ -6,3 +6,7 @@
 多进程 master-worker 模型
 ### 4.container
 DI 容器练习
+### 5.yiichina-sign 
+用过 Yii 框架，应该熟悉yiichina.com, 里面有个自动签到功能，学习Go，写了一个自动签到功能
+### 6.client-server
+用 C 写了一个服务端-客户端模型
